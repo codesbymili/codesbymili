@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate UI developer specializing in **HT
 ---
 
 ## 🎉 Fun Facts & Hobbies  
-- 🍰 **Baking Enthusiast** – Experimenting with new cake recipes and baking brownies & butter cookies is my happy place ❤️. Check out my creations on [Cakes by Mili! ](https://instagram.com/your-instagram-handle)
+- 🍰 **Baking Enthusiast** – Experimenting with new cake recipes and baking brownies & butter cookies is my happy place ❤️. Check out my creations on [Cakes by Mili! ](https://www.instagram.com/cakes_bymili/)
 - 📚 **Bookaholic** – Can’t resist the smell of fresh pages and a good story!
 - 💃 **Dance Machine** – Dancing is my stress-buster and energy booster!
 - 🏋️‍♀️ **Gym Ninja** – Crushing workouts and getting stronger every day!  
