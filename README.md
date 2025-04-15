@@ -32,7 +32,9 @@ Welcome to my GitHub profile! I'm a passionate UI developer specializing in **HT
 
 ## 👩‍💻 Featured Projects  
 - [🌤️ Weather App](https://codesbymili.github.io/weather-app)  
-- [🔐 React Login Page](https://codesbymili.github.io/react-login-signup-page)  
+- [🔐 React Login Page](https://codesbymili.github.io/react-login-signup-page)
+- [🛒 Shopping Checkout Progress Bar](https://codesbymili.github.io/shoppingCheckoutProgressBar)  
+
 
 ---
 
