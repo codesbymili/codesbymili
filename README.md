@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Milin Michael
 
-Welcome to my GitHub profile! I'm a passionate UI developer specializing in **HTML, CSS, JavaScript, and React**.
+Welcome to my GitHub profile! 
+I'm a passionate UI developer specializing 
+in **HTML, CSS, JavaScript, and React**.
 
 ---
 
