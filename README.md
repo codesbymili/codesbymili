@@ -36,6 +36,7 @@ in **HTML, CSS, JavaScript, and React**.
 - [🎒 Travel Packing List](https://codesbymili.github.io/travel-packing-list)  
 - [🧠 React Flashcards App](https://codesbymili.github.io/react-flashcards)  
 - [🌤️ Weather App](https://codesbymili.github.io/weather-app)
+- [➕ Accordion Component](https://codesbymili.github.io/accordion-component/)
 - [🧮 React Counter App](https://codesbymili.github.io/counter-app/)
 - [🔐 React Login Page](https://codesbymili.github.io/react-login-signup-page)  
 - [🛒 Shopping Checkout Progress Bar](https://codesbymili.github.io/shoppingCheckoutProgressBar)  
