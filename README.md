@@ -33,6 +33,7 @@ in **HTML, CSS, JavaScript, and React**.
 
 ## 👩‍💻 Featured Projects 
 - [🍔 Eat-'N-Split App](https://codesbymili.github.io/eat-n-split/)
+- [🧁 Bakery Menu - Cakes by Mili](https://codesbymili.github.io/menu-cakesbymili/)
 - [🧳 Travel Packing List](https://codesbymili.github.io/travel-packing-list)  
 - [🧠 React Flashcards App](https://codesbymili.github.io/react-flashcards)  
 - [🌤️ Weather App](https://codesbymili.github.io/weather-app)
