@@ -9,7 +9,6 @@ in **HTML, CSS, JavaScript, and React**.
 ## 🚀 About Me
 - 💻 Frontend Developer with expertise in building dynamic and responsive UIs.
 - 🎨 Passionate about UI/UX design and creating intuitive user experiences.
-- 📚 Always learning new technologies to enhance my development skills.
 
 ---
 
